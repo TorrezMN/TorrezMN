@@ -17,20 +17,22 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
 ## 🔨 I’m currently working on ...
-
-
-
 
 <br />
 <br />
 
 ### 🧰 Languages and Tools:
 
+<img align="center" alt="TorrezMN Github Stats" src="https://github-readme-stats.vercel.app/api?username=TorrezMN&theme=chartreuse-dark&show_icons=true"/>
+<img align="center" alt="TorrezMN Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorrezMN&theme=chartreuse-dark"/>
+<img align="center" alt="TorrezMN Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TorrezMN&theme=chartreuse-dark"/>
+
 <br />
 <br />
+
 ## 📹 Latest Youtube Videos
+
 <!-- YOUTUBE:START -->
 - [BachesCollector App Movil - Demo](https://www.youtube.com/watch?v=WHsziHansd0)
 - [Web   BachesCollector - Admin Demo](https://www.youtube.com/watch?v=T4O19HY3UTg)
@@ -39,7 +41,5 @@ Here are some ideas to get you started:
 - [Sobre el origen del proyecto.](https://www.youtube.com/watch?v=VWm0VPSjk6k)
 <!-- YOUTUBE:END -->
 
-
 <br/>
 <br/>
-<img align="center" alt="TorrezMN Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorrezMN&theme=highcontrast"/>
