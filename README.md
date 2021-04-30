@@ -41,3 +41,8 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+
+## Programming for Fun an Practice 
+### CodeWars
+<img align='center' alt="Codewars badge." src="https://www.codewars.com/users/Torrez%20M.N./badges/large">
+
