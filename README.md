@@ -14,9 +14,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ## 🔨 I’m currently working on ...
+<br />
+<br />
 
 
-- ## 📹 Latest Youtube Videos
+## 🔨 I’m currently working on ...
+
+
+
+
+<br />
+<br />
+
+### 🧰 Languages and Tools:
+
+<br />
+<br />
+## 📹 Latest Youtube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+<br/>
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TorrezMN)](https://github.com/anuraghazra/github-readme-stats)
