@@ -19,4 +19,9 @@ Here are some ideas to get you started:
 
 - ## 📹 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [BachesCollector App Movil - Demo](https://www.youtube.com/watch?v=WHsziHansd0)
+- [Web   BachesCollector - Admin Demo](https://www.youtube.com/watch?v=T4O19HY3UTg)
+- [Web   BachesCollector - User Demo](https://www.youtube.com/watch?v=91KQklKO4hs)
+- [Sobre la organización del proyecto.](https://www.youtube.com/watch?v=kD6oEm9uCts)
+- [Sobre el origen del proyecto.](https://www.youtube.com/watch?v=VWm0VPSjk6k)
 <!-- YOUTUBE:END -->
