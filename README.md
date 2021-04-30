@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 <br/>
 
 ## Programming for Fun and Practice 
-### CodeWars
+#### CodeWars
 <img align='center' alt="Codewars badge." src="https://www.codewars.com/users/Torrez%20M.N./badges/large">
 
-### Codeforces
+#### Codeforces
 [<img src="https://codeforces.org/s/97525/images/codeforces-logo-with-telegram.png">](https://codeforces.com/profile/torrez_mn)
 
-### Fronted Mentor
+#### Fronted Mentor
 [<img src="https://www.frontendmentor.io/static/images/logo-desktop.svg">](https://www.frontendmentor.io/profile/TorrezMN)
 
 
