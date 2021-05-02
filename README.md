@@ -1,10 +1,6 @@
 # Hi there 👋
 ### I'm Milton 😃
 
-<center>
-	<img src="https://readme-typing-svg.herokuapp.com/?lines=Programming isn't about what you know; it's about what you can figure out.”>
-</center>
-
 <!--
 **TorrezMN/TorrezMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,17 +9,20 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📫 How to reach me:
+<div align='center'>hola</div>
 
 <br />
 <br />
 
 ## 💬 Ask me about ...
-	- Python
-	- Javascript
+
+- Python
+- Javascript
 
 
 <br />
