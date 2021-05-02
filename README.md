@@ -1,20 +1,44 @@
+<div align='center'>
 # Hi there 👋
-### I'm Milton 😃
+### Hello welcome! I'm Milton 😃
+</center>
 
 <!--
 **TorrezMN/TorrezMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div align='center'>hola</div>
 -->
+<br />
+<br />
 
 ## 📫 How to reach me:
-<div align='center'>hola</div>
+
+<div align='center'>
+
+
+![Twitter Follow](https://img.shields.io/twitter/follow/mntorrez?style=for-the-badge)
+
+
+
+</div>
+
+
+<br />
+<br />
+
+## 🌱 I’m currently learning ...
+
+- Some Machine Learning.
+- Some libraries to visualize data.
+- Some Testing Development.
+- Learning a bit of everything. (Everything that can be... preferably related to development.)
 
 <br />
 <br />
