@@ -63,17 +63,17 @@ Here are some ideas to get you started:
 <div align='center'>
 <img align="center" alt="TorrezMN Github Stats" src="https://github-readme-stats.vercel.app/api?username=TorrezMN&theme=chartreuse-dark&show_icons=true"/>
 </div>
-<div align='left'>
+<div align='center'>
 
 <img align="center" alt="TorrezMN Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorrezMN&theme=chartreuse-dark"/>
 
 
-
-</div>
-<div align='right'>
-
 <img align="center" alt="TorrezMN Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TorrezMN&theme=chartreuse-dark&v=2"/>
+
+
 </div>
+
+
 
 
 <br />
