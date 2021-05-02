@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 <div align='center'>
 
-![https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white]({https://twitter.com/mntorrez})
+![Twitter Follow](https://img.shields.io/twitter/follow/mntorrez?style=for-the-badge)
+
 
 
 
@@ -59,7 +60,21 @@ Here are some ideas to get you started:
 
 ### 🧰 Languages and Tools:
 
-<img align="center" alt="TorrezMN Github Stats" src="https://github-readme-stats.vercel.app/api?username=TorrezMN&theme=chartreuse-dark&show_icons=true"/><img align="center" alt="TorrezMN Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorrezMN&theme=chartreuse-dark"/><img align="center" alt="TorrezMN Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TorrezMN&theme=chartreuse-dark&v=2"/>
+<div align='center'>
+<img align="center" alt="TorrezMN Github Stats" src="https://github-readme-stats.vercel.app/api?username=TorrezMN&theme=chartreuse-dark&show_icons=true"/>
+</div>
+<div align='left'>
+
+<img align="center" alt="TorrezMN Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorrezMN&theme=chartreuse-dark"/>
+
+
+
+</div>
+<div align='right'>
+
+<img align="center" alt="TorrezMN Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TorrezMN&theme=chartreuse-dark&v=2"/>
+</div>
+
 
 <br />
 <br />
