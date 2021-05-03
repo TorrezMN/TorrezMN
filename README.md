@@ -17,14 +17,14 @@
 <div align="center">
 
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/mntorrez?style=for-the-badge) -->
-
+<p>
 <a href="https://dev.to/torrezmn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="torrezmna" height="30" width="40" /></a>
 
-<a href="https://twitter.com/torrezmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="torrezmna" height="30" width="40" /></a>
+<a href="https://twitter.com/mntorrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="torrezmna" height="30" width="40" /></a>
 
 <a href="https://kaggle.com/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="torrezmna" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCuNWWspn9X2zdLWHvriduOA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="torrezmna" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCuNWWspn9X2zdLWHvriduOA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="torrezmna" height="30" width="40" /></a>
 
 <a href="https://codeforces.com/profile/torrez_mn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="torrezmna" height="30" width="40" /></a>
 
@@ -34,7 +34,7 @@
 
 <!-- <a href="https://www.hackerrank.com/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="torrezmna" height="30" width="40" /></a> -->
 
-
+</p>
 </div>
 
 <br />
