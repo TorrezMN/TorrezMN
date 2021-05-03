@@ -1,17 +1,11 @@
 
- 
- ██╗  ██╗███████╗██╗     ██╗      ██████╗ 
- ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
- ███████║█████╗  ██║     ██║     ██║   ██║
- ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
- ██║  ██║███████╗███████╗███████╗╚██████╔╝
- ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
- 
- 
-<br />
+<div align='center'>
+![hello](https://i.imgur.com/IPcZfme.gif)
 <br />
 
 ### Hello welcome! I'm Milton 😃
+
+</div>
 
 <br />
 <br />
@@ -22,16 +16,23 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mntorrez?style=for-the-badge)
 
-<a href="https://codepen.io/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="torrezmna" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="torrezmna" height="30" width="40" /></a> -->
 <a href="https://dev.to/torrezmn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="torrezmna" height="30" width="40" /></a>
+
 <a href="https://twitter.com/torrezmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="torrezmna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="torrezmna" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="torrezmna" height="30" width="40" /></a>
+
+<!-- <a href="https://linkedin.com/in/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="torrezmna" height="30" width="40" /></a> -->
+
+<!-- <a href="https://stackoverflow.com/users/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="torrezmna" height="30" width="40" /></a> -->
+
 <a href="https://kaggle.com/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="torrezmna" height="30" width="40" /></a>
-<a href="https://fb.com/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="torrezmna" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="torrezmna" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="torrezmna" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/torrezmna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="torrezmna" height="30" width="40" /></a>
+
+
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCuNWWspn9X2zdLWHvriduOA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="torrezmna" height="30" width="40" /></a>
+
+<!-- <a href="https://www.hackerrank.com/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="torrezmna" height="30" width="40" /></a> -->
+
+<a href="https://codeforces.com/profile/torrez_mn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="torrezmna" height="30" width="40" /></a>
 
 </p>
 
