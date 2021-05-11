@@ -41,12 +41,12 @@
 
 <div align="center">
   
-<a href = 'https://www.kaggle.com/torrezmn'><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png"  width="200" height="100" ></a>
-<a href = 'https://dev.to/torrezmn'><img src="https://prepr.org/wp-content/uploads/2013/06/DevTO_logo.png"  width="200" height="100"></a>
-<a href = 'https://www.youtube.com/channel/UCuNWWspn9X2zdLWHvriduOA'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/502px-Logo_of_YouTube_%282015-2017%29.svg.png"  width="200" height="100"></a>
-<a href = 'https://stackoverflow.com/users/5403776/torrez-milton-n'><img src="https://download.logo.wine/logo/Stack_Overflow/Stack_Overflow-Logo.wine.png"  width="200" height="100"></a>
-<a href = 'https://codepen.io/torrezmn'><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvF4iXxidUR-EAx1QUp5uu37e6R0qMs9Wf3Q&usqp=CAU"  width="200" height="100"></a>
-<a href = 'https://twitter.com/mntorrez'><img src="https://socialgeek.co/wp-content/uploads/2017/11/logo-twitter.png"  width="200" height="100"></a>
+<a href = 'https://www.kaggle.com/torrezmn'><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png"  width="100" height="50" ></a>
+<a href = 'https://dev.to/torrezmn'><img src="https://prepr.org/wp-content/uploads/2013/06/DevTO_logo.png"  width="100" height="50"></a>
+<a href = 'https://www.youtube.com/channel/UCuNWWspn9X2zdLWHvriduOA'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/502px-Logo_of_YouTube_%282015-2017%29.svg.png"  width="100" height="50"></a>
+<a href = 'https://stackoverflow.com/users/5403776/torrez-milton-n'><img src="https://download.logo.wine/logo/Stack_Overflow/Stack_Overflow-Logo.wine.png"  width="100" height="50"></a>
+<a href = 'https://codepen.io/torrezmn'><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvF4iXxidUR-EAx1QUp5uu37e6R0qMs9Wf3Q&usqp=CAU"  width="100" height="50"></a>
+<a href = 'https://twitter.com/mntorrez'><img src="https://socialgeek.co/wp-content/uploads/2017/11/logo-twitter.png"  width="100" height="50"></a>
 
 
 
