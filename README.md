@@ -36,39 +36,22 @@
 
 ## Where to find me?
 
-<!-- https://www.kaggle.com/torrezmn -->
-<!-- https://dev.to/torrezmn -->
-<!-- https://www.youtube.com/channel/UCuNWWspn9X2zdLWHvriduOA -->
-<!-- https://codeforces.com/profile/torrez_mn -->
-<!-- https://stackoverflow.com/users/5403776/torrez-milton-n -->
-<!-- https://codepen.io/torrezmn -->
+ 
+
+
+<div align="center">
+  
+<a href = 'https://www.kaggle.com/torrezmn'>Kaggle</a>
+<a href = 'https://dev.to/torrezmn'>DevTo</a>
+<a href = 'https://www.youtube.com/channel/UCuNWWspn9X2zdLWHvriduOA'>Youtube</a>
+<a href = 'https://codeforces.com/profile/torrez_mn'>CodeForses</a>
+<a href = 'https://stackoverflow.com/users/5403776/torrez-milton-n'>StackOverflow</a>
+<a href = 'https://codepen.io/torrezmn'>Codepen</a>
+<a href = 'https://twitter.com/mntorrez'>Twitter</a>
 
 
 
-
-<p align="center">
-
-
-
-
-<a href="https://dev.to/torrezmn" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="torrezmna" height="30" width="40" /></a>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/mntorrez?style=for-the-badge)
-<!-- <a href="https://twitter.com/mntorrez" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="torrezmna" height="30" width="40" /></a> -->
-
-<a href="https://www.kaggle.com/torrezmn" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="torrezmna" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/channel/UCuNWWspn9X2zdLWHvriduOA" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="torrezmna" height="30" width="40" /></a>
-
-<a href="https://codeforces.com/profile/torrez_mn" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="torrezmna" height="30" width="40" /></a>
-
-<!-- <a href="https://codepen.io/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="torrezmna" height="30" width="40" /></a> -->
-<!-- <a href="https://linkedin.com/in/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="torrezmna" height="30" width="40" /></a> -->
-<!-- <a href="https://stackoverflow.com/users/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="torrezmna" height="30" width="40" /></a> -->
-
-<!-- <a href="https://www.hackerrank.com/torrezmna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="torrezmna" height="30" width="40" /></a> -->
-
-</p>
+</div>
 
 
 <br />
@@ -154,11 +137,11 @@
 
 
 #### CodinGame
-<!-- https://www.codingame.com/profile/56f1ceef6fd80d30b529cd43aa43af294226134 -->
+[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/CodinGame_logo.svg/700px-CodinGame_logo.svg.png">](https://www.codingame.com/profile/56f1ceef6fd80d30b529cd43aa43af294226134)
 
 
 #### CSS Battle
-<!-- https://cssbattle.dev/player/MV1AJJaymPPip7fZw7pQitLa8kX2 -->
+[<img src="https://cssbattle.dev/images/banner.png" width="200" height="100">](https://cssbattle.dev/player/MV1AJJaymPPip7fZw7pQitLa8kX2)
 
 
 <br/>
