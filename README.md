@@ -35,7 +35,8 @@
  
                                                                                                                
    ### I'm Milton 😃
-
+   ### What I do?
+    - I do not know... I just hit the keyboard until something happens... (sometimes it breaks everything ... 😃)
 <br />
 <br />
 
@@ -52,6 +53,13 @@
 <a href = 'https://stackoverflow.com/users/5403776/torrez-milton-n'><img src="https://download.logo.wine/logo/Stack_Overflow/Stack_Overflow-Logo.wine.png"  width="100" height="50" style="margin-left:15px;"></a>
 <a href = 'https://codepen.io/torrezmn'><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvF4iXxidUR-EAx1QUp5uu37e6R0qMs9Wf3Q&usqp=CAU"  width="100" height="50" style="margin-left:15px;"></a>
 <a href = 'https://twitter.com/mntorrez'><img src="https://socialgeek.co/wp-content/uploads/2017/11/logo-twitter.png"  width="100" height="50" style="margin-left:15px;"></a>
+
+---
+
+</div>
+<div align="center">
+<span>(Sometimes you can find me here ...)</span>
+<a href = 'https://www.twitch.tv/the_duck_hill'><img src="https://assets.help.twitch.tv/Glitch_Purple_RGB.png"  width="100" height="50" style="margin-left:15px;"></a>
 
 
 
@@ -149,5 +157,8 @@
 
 <br/>
 <br/>
+
+## Visits
+[![Image of https://github.com/TorrezMN/Github_Counter](https://github.com/TorrezMN/Github_Counter/blob/master/svg/profile/badge.svg)](https://github.com/TorrezMN/Github_Counter)
 
  
