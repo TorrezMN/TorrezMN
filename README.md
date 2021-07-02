@@ -35,14 +35,12 @@
  
                                                                                                                
    ### I'm Milton 😃
-   ### What I do?
-    - I do not know... I just hit the keyboard until something happens... (sometimes it breaks everything ... 😃)
+   #### What I do?
+I just hit the keyboard until something happens... 😏
 <br />
 <br />
 
 ## Where to find me?
-
- 
 
 
 <div align="center">
@@ -58,8 +56,8 @@
 
 </div>
 <div align="center">
-<span>(Sometimes you can find me here ...)</span>
-<a href = 'https://www.twitch.tv/the_duck_hill'><img src="https://assets.help.twitch.tv/Glitch_Purple_RGB.png"  width="100" height="50" style="margin-left:15px;"></a>
+<a href = 'https://www.twitch.tv/the_duck_hill'><img src="https://assets.help.twitch.tv/Glitch_Purple_RGB.png"  width="50" height="25" style="margin-left:15px;"></a><br>
+<span>(Sometimes you can find me here... )</span>
 
 
 
