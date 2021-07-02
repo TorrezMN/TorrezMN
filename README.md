@@ -126,11 +126,11 @@
 ## 📹 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [BachesCollector App Movil - Demo](https://www.youtube.com/watch?v=WHsziHansd0)
-- [Web   BachesCollector - Admin Demo](https://www.youtube.com/watch?v=T4O19HY3UTg)
-- [Web   BachesCollector - User Demo](https://www.youtube.com/watch?v=91KQklKO4hs)
-- [Sobre la organización del proyecto.](https://www.youtube.com/watch?v=kD6oEm9uCts)
-- [Sobre el origen del proyecto.](https://www.youtube.com/watch?v=VWm0VPSjk6k)
+- [Django Models - Loading test data.](https://www.youtube.com/watch?v=lCingO18N6Q)
+- [Random Walk](https://www.youtube.com/watch?v=JRaPbm9u57g)
+- [Christmas Tree Pattern](https://www.youtube.com/watch?v=e1TTbV9o5BA)
+- [Getting "This Person Does Not Exist" Face Photos](https://www.youtube.com/watch?v=LEWSNbqG4Ag)
+- [Buble Sort Visualization](https://www.youtube.com/watch?v=tgs790_SL44)
 <!-- YOUTUBE:END -->
 
 <br/>
