@@ -52,21 +52,42 @@ I just hit the keyboard until something happens... 😏
 <a href = 'https://codepen.io/torrezmn'><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvF4iXxidUR-EAx1QUp5uu37e6R0qMs9Wf3Q&usqp=CAU"  width="100" height="50" style="margin-left:15px;"></a>
 <a href = 'https://twitter.com/mntorrez'><img src="https://socialgeek.co/wp-content/uploads/2017/11/logo-twitter.png"  width="100" height="50" style="margin-left:15px;"></a>
 
-
 </div>
+
 ---
+
 <div align="center">
 <a href = 'https://www.twitch.tv/the_duck_hill'><img src="https://assets.help.twitch.tv/Glitch_Purple_RGB.png"  width="50" height="50" style="margin-left:15px;"></a><br>
 <span>(Sometimes you can find me here... )</span>
 </div>
+
+
 ---
 
 
 <br />
 <br />
 <div align="center">
-<h3>The best project I have so far ...</h3><br/>
-<p>An application to record pothole data of the streets of Asuncion, Paraguay. It is a web application and a mobile application.</p>
+
+
+     
+      ________                     __                                          __         ______                      
+     /        |                   /  |                                        /  |       /      \                     
+     $$$$$$$$/______    ______   _$$ |_    __    __   ______    ______    ____$$ |      /$$$$$$  |  ______    ______  
+     $$ |__  /      \  /      \ / $$   |  /  |  /  | /      \  /      \  /    $$ |      $$ |__$$ | /      \  /      \ 
+     $$    |/$$$$$$  | $$$$$$  |$$$$$$/   $$ |  $$ |/$$$$$$  |/$$$$$$  |/$$$$$$$ |      $$    $$ |/$$$$$$  |/$$$$$$  |
+     $$$$$/ $$    $$ | /    $$ |  $$ | __ $$ |  $$ |$$ |  $$/ $$    $$ |$$ |  $$ |      $$$$$$$$ |$$ |  $$ |$$ |  $$ |
+     $$ |   $$$$$$$$/ /$$$$$$$ |  $$ |/  |$$ \__$$ |$$ |      $$$$$$$$/ $$ \__$$ |      $$ |  $$ |$$ |__$$ |$$ |__$$ |
+     $$ |   $$       |$$    $$ |  $$  $$/ $$    $$/ $$ |      $$       |$$    $$ |      $$ |  $$ |$$    $$/ $$    $$/ 
+     $$/     $$$$$$$/  $$$$$$$/    $$$$/   $$$$$$/  $$/        $$$$$$$/  $$$$$$$/       $$/   $$/ $$$$$$$/  $$$$$$$/  
+                                                                                                  $$ |      $$ |      
+                                                                                                  $$ |      $$ |      
+                                                                                                  $$/       $$/       
+     
+
+
+<br/>
+<p>The best project I did so far is an application to record pothole data of the streets of Asuncion, Paraguay. It is a web application and a mobile application.</p>
 </div>
 
 #### Stack Used
