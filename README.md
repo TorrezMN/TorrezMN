@@ -56,12 +56,27 @@ I just hit the keyboard until something happens... 😏
 
 </div>
 <div align="center">
-<a href = 'https://www.twitch.tv/the_duck_hill'><img src="https://assets.help.twitch.tv/Glitch_Purple_RGB.png"  width="50" height="25" style="margin-left:15px;"></a><br>
+<a href = 'https://www.twitch.tv/the_duck_hill'><img src="https://assets.help.twitch.tv/Glitch_Purple_RGB.png"  width="50" height="50" style="margin-left:15px;"></a><br>
 <span>(Sometimes you can find me here... )</span>
-
-
-
 </div>
+
+
+<br />
+<br />
+<div align="center">
+<h3>The best project I have so far ...</h3><br/>
+<p>An application to record pothole data of the streets of Asuncion, Paraguay. It is a web application and a mobile application.</p>
+</div>
+#### Stack Used
+* Django
+* Django Rest Framework
+* React Native
+* Heroku
+
+<div align="center">
+You can see a demo <a href= "https://www.youtube.com/watch?v=WHsziHansd0" >here</a>. (Audio in Spanish.)
+</div>
+
 
 
 <br />
