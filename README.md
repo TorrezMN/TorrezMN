@@ -52,13 +52,14 @@ I just hit the keyboard until something happens... 😏
 <a href = 'https://codepen.io/torrezmn'><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvF4iXxidUR-EAx1QUp5uu37e6R0qMs9Wf3Q&usqp=CAU"  width="100" height="50" style="margin-left:15px;"></a>
 <a href = 'https://twitter.com/mntorrez'><img src="https://socialgeek.co/wp-content/uploads/2017/11/logo-twitter.png"  width="100" height="50" style="margin-left:15px;"></a>
 
----
 
 </div>
+---
 <div align="center">
 <a href = 'https://www.twitch.tv/the_duck_hill'><img src="https://assets.help.twitch.tv/Glitch_Purple_RGB.png"  width="50" height="50" style="margin-left:15px;"></a><br>
 <span>(Sometimes you can find me here... )</span>
 </div>
+---
 
 
 <br />
@@ -67,6 +68,7 @@ I just hit the keyboard until something happens... 😏
 <h3>The best project I have so far ...</h3><br/>
 <p>An application to record pothole data of the streets of Asuncion, Paraguay. It is a web application and a mobile application.</p>
 </div>
+
 #### Stack Used
 * Django
 * Django Rest Framework
@@ -77,6 +79,7 @@ I just hit the keyboard until something happens... 😏
 You can see a demo <a href= "https://www.youtube.com/watch?v=WHsziHansd0" >here</a>. (Audio in Spanish.)
 </div>
 
+---
 
 
 <br />
