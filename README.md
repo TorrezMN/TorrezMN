@@ -1,4 +1,4 @@
-##########################################################################################################
+
      
                                                   .-'''-.              
                                      .---..---.   '   _    \            
@@ -28,8 +28,7 @@
                                                                                                                `''--'  
 
 
-##########################################################################################################
-
+---
     
     
  
@@ -97,7 +96,7 @@ I just hit the keyboard until something happens... 😏
 * Heroku
 
 <div align="center">
-You can see a demo <a href= "https://www.youtube.com/watch?v=WHsziHansd0" >here</a>. (Audio in Spanish.)
+You can see a video demo <a href= "https://www.youtube.com/watch?v=WHsziHansd0" >here</a>. (Audio in Spanish.)
 </div>
 
 ---
