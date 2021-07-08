@@ -174,7 +174,7 @@ You can see a video demo <a href= "https://www.youtube.com/watch?v=WHsziHansd0" 
 
 ## Programming for Fun and Practice 
 #### CodeWars
-<img align='center' alt="Codewars badge." src="https://www.codewars.com/users/Torrez%20M.N./badges/large">
+[<img align='center' alt="Codewars badge." src="https://www.codewars.com/users/Torrez%20M.N./badges/large">}(https://www.codewars.com/users/Torrez%20M.N.)
 
 #### Codeforces
 [<img src="https://codeforces.org/s/97525/images/codeforces-logo-with-telegram.png">](https://codeforces.com/profile/torrez_mn)
