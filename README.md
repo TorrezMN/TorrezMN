@@ -44,7 +44,7 @@ I just hit the keyboard until something happens... 😏
 
 <div align="center">
 <a href = 'https://codesandbox.io/u/TorrezMN'>
- <img src="https://cdn.iconscout.com/icon/free/png-256/code-sandbox-3626923-3029331.png"  width="100" height="50" style="margin-left:15px;" >
+ <img src="https://cdn.iconscout.com/icon/free/png-256/code-sandbox-3626923-3029331.png"  width="50" height="50" style="margin-left:15px;" >
 </a>  
 <a href = 'https://www.kaggle.com/torrezmn'><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png"  width="100" height="50" style="margin-left:15px;" ></a>
 <a href = 'https://dev.to/torrezmn'><img src="https://prepr.org/wp-content/uploads/2013/06/DevTO_logo.png"  width="100" height="50" style="margin-left:15px;"></a>
