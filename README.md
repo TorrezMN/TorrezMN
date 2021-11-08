@@ -167,7 +167,7 @@ You can see a video demo <a href= "https://www.youtube.com/watch?v=WHsziHansd0" 
 - [Django Models - Loading test data.](https://www.youtube.com/watch?v=lCingO18N6Q)
 - [Random Walk](https://www.youtube.com/watch?v=JRaPbm9u57g)
 - [Christmas Tree Pattern](https://www.youtube.com/watch?v=e1TTbV9o5BA)
-- [Getting "This Person Does Not Exist" Face Photos](https://www.youtube.com/watch?v=LEWSNbqG4Ag)
+- [Getting &quot;This Person Does Not Exist&quot; Face Photos](https://www.youtube.com/watch?v=LEWSNbqG4Ag)
 - [Buble Sort Visualization](https://www.youtube.com/watch?v=tgs790_SL44)
 <!-- YOUTUBE:END -->
 
