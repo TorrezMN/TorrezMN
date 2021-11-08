@@ -57,16 +57,6 @@ I just hit the keyboard until something happens... 😏
 
 ---
 
-<div align="center">
-<a href = 'https://www.twitch.tv/the_duck_hill'><img src="https://assets.help.twitch.tv/Glitch_Purple_RGB.png"  width="50" height="50" style="margin-left:15px;"></a><br>
-<span>(Sometimes you can find me here... )</span>
-</div>
-
-
----
-
-
-<br />
 <br />
 <div align="center">
 
@@ -114,7 +104,6 @@ You can see a video demo <a href= "https://www.youtube.com/watch?v=WHsziHansd0" 
 - Learning a bit of everything. (Everything that can be... preferably related to development.)
 
 <br />
-<br />
 
 ## 💬 Ask me about ...
 
@@ -123,12 +112,9 @@ You can see a video demo <a href= "https://www.youtube.com/watch?v=WHsziHansd0" 
 
 
 <br />
-<br />
 
-## 🔨🕙 I’m currently working on ...
+<!-- ## 🔨🕙 I’m currently working on ... -->
 
-<br />
-<br />
 
 ### ⚒️ Languages and Tools:
 
