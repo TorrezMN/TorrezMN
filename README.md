@@ -34,8 +34,6 @@
  
                                                                                                                
    ### I'm Milton 😃
-   #### What I do?
-I just hit the keyboard until something happens... 😏
 <br />
 <br />
 
