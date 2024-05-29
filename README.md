@@ -186,10 +186,12 @@ You can see a video demo <a href= "https://www.youtube.com/watch?v=WHsziHansd0" 
  
 <br/>
 <br/>
----
-### Extras
 
-[PERFIL pypi](https://pypi.org/user/torrez.mn/)
-[PERFIL npm](https://www.npmjs.com/~torrez_mn)
+### Extras
+---
+
+[PERFIL pypi](https://pypi.org/user/torrez.mn/)        
+
+[PERFIL npm](https://www.npmjs.com/~torrez_mn)        
 
 
